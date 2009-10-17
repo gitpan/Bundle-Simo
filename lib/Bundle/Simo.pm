@@ -2,7 +2,7 @@ package Bundle::Simo;
 use strict;
 use warnings;
 
-$VERSION = '0.0101';
+$VERSION = '0.0201';
 
 1;
 
@@ -10,7 +10,7 @@ __END__
 
 =head1 NAME
 
-Bundle::Simo - A bundle to install L<Simo> related modules
+Bundle::Simo - A bundle to install L<Simo> related modules [DISCOURAGED]
 
 =head1 SYNOPSIS
 
